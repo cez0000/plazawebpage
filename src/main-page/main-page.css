@@ -1,5 +1,7 @@
 .lee {
     background-color: aquamarine;
-    border-radius: 10px;
+    width: 600px;
+    height: 250px;
+    border-radius: 15px;
     cursor: pointer;
 }

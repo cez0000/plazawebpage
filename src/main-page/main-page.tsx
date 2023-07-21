@@ -12,7 +12,7 @@ function MainPage() {
 
     }
     return (
-        <h1 style={{backgroundColor: `rgb(${randomRGB[0]}, ${randomRGB[1]}, ${randomRGB[2]})`}} onClick={changeColor} className="lee">Łee</h1>
+        <h1 style={{backgroundColor: `rgb(${randomRGB[0]}, ${randomRGB[1]}, ${randomRGB[2]})`}} onClick={changeColor} className="lee">Łee Random Color Tu</h1>
     )
 }
 export default MainPage
